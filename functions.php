@@ -58,3 +58,5 @@ function getConnection()
     }
     return $conn;
 }
+
+// backend 2.4
